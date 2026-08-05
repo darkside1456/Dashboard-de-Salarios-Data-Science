@@ -1,2 +1,1 @@
-# Dashboard-de-Salarios-Data-Science
-Dashboard interactivo de salarios en ciencia de datos creado con Python y Streamlit. Visibilidad pública
+Este proyecto es un dashboard interactivo de salarios en ciencia de datos e inteligencia artificial. Fue creado con Python, Streamlit y pandas. Permite filtrar por experiencia y modalidad de trabajo, ver el salario promedio, el puesto mejor pagado y gráficos de salarios.
